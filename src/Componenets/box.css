@@ -1,0 +1,26 @@
+
+
+#card1{
+      
+ 
+    color:black;
+    
+
+}
+#card12{
+    border: solid green;
+    box-shadow: rgba( 0, 0, 0) 5px 5px 5px;
+    margin-left: 1%;
+    width: 19%;
+    text-align: center;
+    border-radius: 5%;
+    position: static;
+    float: left;
+    height: auto;
+    background-color: beige;
+
+   
+}
+#h1{
+    font-size:100%;
+}

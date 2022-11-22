@@ -1,0 +1,31 @@
+#head1{
+    /* height: 100%; */
+    /* background-image: url(https://www.survivingwithandroid.com/wp-content/uploads/2014/11/android_weather_app.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    border-radius: 12px;
+    margin: 1rem;
+    margin-top: 5%;
+    color:black;
+    background-image: none;
+    
+   
+  
+    /* border: solid black; */
+   
+}
+#heading{
+    font-size: 300%;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    
+}
+#sub{
+    font-size: 200%;
+    font-family: 'Hind', sans-serif;
+}
+hr{
+    width: 50%;
+    
+}
